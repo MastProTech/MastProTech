@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- I’m currently working on **[Flask App](https://github.com/MastProTech/FlaskApp) (Private Repository)** -->
 
-My personal website is up and running. [Visit here!](https://mastprotech.github.io/MastProTech)
+My personal website is up and running. [Visit here!](https://mastprotech.github.io)
 
 ![](https://hit.yhype.me/github/profile?user_id=62762740)
 
